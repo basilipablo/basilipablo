@@ -3,11 +3,11 @@
 
   <br>
   
-<h3>Hi there! 👋🤓<br>I'm Pablo<br>Full Stack dev Junior, bachelor in Communication and design <br>Starter in Data Base Managment, Designer, <br>Creator and Writer</h3>
+<h3>Hi there! 👋🤓<br>I'm Pablo<br>Full Stack dev Junior, bachelor in Communication and design, <br>imporving in Data Base Managment, long time Designer, <br>Creator and Writer</h3>
 
 <h4> <a>Let's Talk: basilipablo@gmail.com</a> • <a href="https://www.linkedin.com/in/basilipablo/">Linkedin</a> </h4>
 
-<a href="https://stephenajulu.com"><img src="images/rsz 300w asset_1.png" width="100"></a>
+<a href="https://basilipablo2todolist.herokuapp.com/"><img src="https://www.latercera.com/resizer/TmVz9szOqVu5kmXHnAGsu1EIeHQ=/800x0/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/5RKSMEMEXJEPTMSLL77RJDACMM.jpg" width="100"></a>
 
 <hr width="50%" style="height:5px;">
 
