@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://stephenajulu.com"><img src="images/stephenajulu header 2.png" alt="Ajulu's Header"></a>
+  <img src="./portadaPBGitHub.png" alt="PB's Header">
 
   <br>
   
