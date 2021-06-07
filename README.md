@@ -11,17 +11,14 @@
 
 <hr width="50%" style="height:5px;">
 
-<h3>📕 My Latest Articles, Podcasts and Videos</h3>
+<h3>📕 Check some of my work</h3>
 
-<!-- BLOG-POST-LIST:START -->
-- [On Becoming a Man With Resources](https://ajulusthoughts.stephenajulu.com/post/on-becoming-a-man-with-resources/)
-- [On Becoming a High Value Man](https://ajulusthoughts.stephenajulu.com/post/on-becoming-a-high-value-man/)
-- [Best Cryptocurrencies to Invest in 2021](https://ajulusthoughts.stephenajulu.com/post/best-cryptocurrencies-to-invest-in-2021/)
-- [5 Places To Spray A Fragrance On For A More Powerful and Long Lasting Effect](https://ajulusthoughts.stephenajulu.com/post/5-places-to-spray-a-fragrance-on-for-a-more-powerful-and-long-lasting-effect/)
-- [5 Must Have Microsoft Edge Browser Extensions](https://ajulusthoughts.stephenajulu.com/post/5-must-have-microsoft-edge-browser-extensions/)
-<!-- BLOG-POST-LIST:END -->
+<!-- WORKS-LINKS-LIST:START -->
+- [Front End Mentor Challenge without CSS Frameworks](https://github.com/basilipablo/3-column)
+- [Python, MatplotLib, SQL, Sequelize and Jupyter Notebook examples](https://drive.google.com/drive/folders/1Z4MaXncW-jtyeLEXZSLGuEw2FO9-h8hj?usp=sharing)
+<!-- WORKS-LINKS-LIST:END -->
 
-<h3>💼 What & Where I am currently working at/on/as</h3>
+<!-- <h3>💼 What & Where I am currently working at/on/as</h3>
   
 <p align="center">
     <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierBalonga&layout=compact" />
@@ -40,5 +37,11 @@ Tech6: Founder and Developer  🚀 <em>coming soon</em><br>
 <a href="https://this1.netlify.app">T.H.I.S: Founder, Developer and Data Entry</a>  🚀 <em>coming soon</em><br>
 BioEmergency & Biomme: Founder and Developer  🚀 <em>coming soon</em><br>
 Lofyd  🚀 <em>coming soon</em>
+</p>-->
+
+<p align="center">
+    <img align="center" alt="Pablo Basili GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilipablo&layout=compact" />
 </p>
+
+ 
 </div>
