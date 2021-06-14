@@ -14,8 +14,8 @@
 <h3>📕 Check some of my work</h3>
 
 <!-- WORKS-LINKS-LIST:START -->
-[Front End Mentor Challenge without CSS Frameworks](https://github.com/basilipablo/3-column)
-[Python, MatplotLib, SQL, Sequelize and Jupyter Notebook examples](https://drive.google.com/drive/folders/1Z4MaXncW-jtyeLEXZSLGuEw2FO9-h8hj?usp=sharing)
+<a href="https://github.com/basilipablo/3-column">Front End Mentor Challenge without CSS Frameworks</a><br>
+<a href="https://drive.google.com/drive/folders/1Z4MaXncW-jtyeLEXZSLGuEw2FO9-h8hj?usp=sharing">Python, MatplotLib, SQL, Sequelize and Jupyter Notebook examples</a>
 <!-- WORKS-LINKS-LIST:END -->
 
 <!-- <h3>💼 What & Where I am currently working at/on/as</h3>
