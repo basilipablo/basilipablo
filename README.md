@@ -14,8 +14,8 @@
 <h3>📕 Check some of my work</h3>
 
 <!-- WORKS-LINKS-LIST:START -->
-- [Front End Mentor Challenge without CSS Frameworks](https://github.com/basilipablo/3-column)
-- [Python, MatplotLib, SQL, Sequelize and Jupyter Notebook examples](https://drive.google.com/drive/folders/1Z4MaXncW-jtyeLEXZSLGuEw2FO9-h8hj?usp=sharing)
+[Front End Mentor Challenge without CSS Frameworks](https://github.com/basilipablo/3-column)
+[Python, MatplotLib, SQL, Sequelize and Jupyter Notebook examples](https://drive.google.com/drive/folders/1Z4MaXncW-jtyeLEXZSLGuEw2FO9-h8hj?usp=sharing)
 <!-- WORKS-LINKS-LIST:END -->
 
 <!-- <h3>💼 What & Where I am currently working at/on/as</h3>
@@ -39,8 +39,10 @@ BioEmergency & Biomme: Founder and Developer  🚀 <em>coming soon</em><br>
 Lofyd  🚀 <em>coming soon</em>
 </p>-->
 
-<p align="center">
+<!-- GitHub stats -->
+<p>
     <img align="center" alt="Pablo Basili GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilipablo&layout=compact" />
+    <img align="center" height="165px" alt="Pablo Basili GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=basilipablo" />
 </p>
 
  
